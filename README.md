@@ -1,0 +1,2 @@
+# Food-Ordering-System-Desktop-Based-
+This Food Ordering System is a Desktop based Application project which is designed for a Cafe/Restaurant to reduce their  hardwork of maintaining orders, GR book and bills of Customers. The purposed project is very helpful for both Restaurant &amp; Cafe to  maintain their Customer details, Order details in very systematic  order. Help to reduce paper work. The system can send the E-Bill to the customer for order proof. The system is using MYSQL database for storing the data.
